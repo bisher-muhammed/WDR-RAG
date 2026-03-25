@@ -1,0 +1,27 @@
+django
+djangorestframework
+
+# RAG core (updated ecosystem)
+langchain
+langchain-community
+
+# NEW: required for latest integrations
+langchain-chroma
+langchain-huggingface
+
+# Embeddings (local, open-source)
+sentence-transformers
+torch
+transformers
+accelerate
+rank_bm25
+
+# Vector DB
+chromadb
+
+# PDF processing
+pymupdf
+
+# Utilities
+python-dotenv
+corsheaders
